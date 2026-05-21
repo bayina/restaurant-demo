@@ -29,3 +29,5 @@ Short-term plan for the Spice Lane Restaurant demo site.
 - [ ] SEO metadata refinements
 - [ ] Lighthouse score review
 - [ ] CHANGELOG updates per release
+
+_Updated 2026-05-21: HTTPS confirmed on subdomain._
